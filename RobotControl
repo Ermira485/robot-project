@@ -1,0 +1,15 @@
+# Simple robot control simulation
+
+def line_following():
+    print("Robot is following the line")
+
+def detect_obstacle():
+    print("Obstacle detected")
+
+def avoid_obstacle():
+    print("Avoiding obstacle")
+
+def main():
+    line_following()
+    detect_obstacle()
+    avoid_obstacle()
